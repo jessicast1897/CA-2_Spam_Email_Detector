@@ -49,4 +49,4 @@ The solution uses a **Bag-of-Words** representation to convert emails into numer
 ---
 
 ## Authors
-**Jessica Shono Thai and Bhavna Sreekumar 
+**Jessica Shono Thai and Bhavna Sreekumar**
